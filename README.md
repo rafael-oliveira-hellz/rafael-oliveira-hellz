@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael de Oliveira, also known as Hellz
-- 👀 I’m interested in learning full-stack development
-- 🌱 I’m currently learning ReactJS/Typescript
-- 💞️ I’m looking to collaborate on projects using ReactJS to improve my skills
+- 👀 I’m interested in learning full-cycle development
+- 🌱 I’m currently woeking as a fullstack engineer
+- 💞️ I’m looking to collaborate on projects to broaden my skills
 - 📫 How to reach me: send an e-mail to rafael.oliveirasylva@gmail.com
 
 <div align="center">
